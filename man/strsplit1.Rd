@@ -9,7 +9,7 @@ strsplit1(x, split)
 \arguments{
 \item{x}{A character vector with one element.}
 
-\item{What}{to split on.}
+\item{split}{What to split on.}
 }
 \value{
 A character vector.

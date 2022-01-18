@@ -1,7 +1,7 @@
 #' Split a string
 #'
 #' @param x A character vector with one element.
-#' @param What to split on.
+#' @param split What to split on.
 #'
 #' @return A character vector.
 #' @export
